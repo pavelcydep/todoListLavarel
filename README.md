@@ -23,3 +23,13 @@
 -Любая СУБД на выбор
 -Валидация данных при регистрации
 
+Как установить проект?
+================
+## Для начала работы вам необходимо:
+скопировать проект:
+git clone https://github.com/pavelcydep/neews-explorer-frontend.git
+
+## Далее следует выполнить следующюю команду:
+php artisan migrate:fresh --seed
+## Запуск проекта:
+php artisan serve
