@@ -33,3 +33,16 @@ git clone https://github.com/pavelcydep/neews-explorer-frontend.git
 php artisan migrate:fresh --seed
 ## Запуск проекта:
 php artisan serve
+
+
+## Пользователь с правами админа по кмолчанию:
+email:test@example.com
+password:password
+
+
+
+Стек технологий
+===============
+PHP,LARAVEL,HTML,bootstrap
+
+
