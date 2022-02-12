@@ -27,7 +27,7 @@
 ================
 ## Для начала работы вам необходимо:
 скопировать проект:
-git clone https://github.com/pavelcydep/neews-explorer-frontend.git
+git clone
 
 ## Далее следует выполнить следующюю команду:
 php artisan migrate:fresh --seed
